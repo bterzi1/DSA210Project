@@ -39,28 +39,28 @@ This project uses Exploratory Data Analysis (EDA), visualization, and machine le
 
 # Step 2: Exploratory Data Analysis
 
-Perform descriptive analysis to summarize email activity.
-Analyze communication patterns over time (daily, weekly, and monthly trends).
-Identify top correspondents and explore the dynamics of these relationships.
-Examine variations in email length, response times, and frequency.
+- Perform descriptive analysis to summarize email activity.
+- Analyze communication patterns over time (daily, weekly, and monthly trends).
+- Identify top correspondents and explore the dynamics of these relationships.
+- Examine variations in email length, response times, and frequency.
 
 # Step 3: Visualization
 
-Create visualizations to represent findings, including:
-Line plots for time-series trends.
-Heatmaps for activity distribution by the time of day and day of the week.
-Word clouds to highlight common themes or keywords.
-Network graphs to visualize social connections and clusters.
+- Create visualizations to represent findings, including:
+- Line plots for time-series trends.
+- Heatmaps for activity distribution by the time of day and day of the week.
+- Word clouds to highlight common themes or keywords.
+- Network graphs to visualize social connections and clusters.
 
 # Step 4: Machine Learning Applications
 
-This step is not clear since the topic belongs to Week 10. As I know with ML Models, some kind of anomaly detection or topic modeling can be implemented.
+This step is not clear since the topic belongs to Week 10. As I know with ML Models, some kind of anomaly detection or topic modeling can be implemented. A regression model can be implemented to forecast the future e-mail numbers.
 
 # Step 5: Insights and Documentation
 
-Synthesize findings to address the project’s key questions.
-Reflect on personal habits, productivity, and relationships based on the results.
-Document the findings, and lessons learned.
+- Synthesize findings to address the project’s key questions.
+- Reflect on personal habits, productivity, and relationships based on the results.
+- Document the findings, and lessons learned.
 
 # Timeline
 • Deadline for submitting the URL with README.md file: Nov 30th
