@@ -24,7 +24,7 @@ This project uses Exploratory Data Analysis (EDA), visualization, and machine le
 - Who are my most significant collaborators, and how have these relationships evolved?
 - Are there any anomalies or patterns indicating changes in focus or behavior?
 - How has my email activity changed over the years? Are there specific periods of higher or lower communication frequency?
-Through these analyses, the project will provide actionable insights into my productivity, social network, and trends.
+* Through these analyses, the project will provide actionable insights into my productivity, social network, and trends.
 
 # 3. Project Plan
 
