@@ -9,32 +9,33 @@ The dataset comprises email records extracted from my baturalp.terzi@sabanciuniv
 
 # Key Features:
 
-Metadata: Sender, recipients, date, and time.
-Textual Content: Subject lines and email bodies.
-Communication frequency (daily, weekly, monthly).
-Word count, and common keywords.
-Time-based patterns (hour of day, day of week, etc.).
-Social network relationships (most frequent correspondents).
-The dataset provides a unique opportunity for self-reflection by analyzing communication trends, behaviors, and relationships over time.
+- Metadata: Sender, recipients, date, and time.
+- Textual Content: Subject lines and email bodies.
+- Communication frequency (daily, weekly, monthly).
+- Word count, and common keywords.
+- Time-based patterns (hour of day, day of week, etc.).
+- Social network relationships (most frequent correspondents).
+- The dataset provides a unique opportunity for self-reflection by analyzing communication trends, behaviors, and relationships over time.
 
 # 2. Project Idea
 This project uses Exploratory Data Analysis (EDA), visualization, and machine learning techniques to uncover insights about communication habits and patterns. By analyzing the email dataset, (For now, new questions can be added through the development stage) I seek to answer questions such as:
 
-When am I most active in communication, and how does this vary over time?
-Who are my most significant collaborators, and how have these relationships evolved?
-Are there any anomalies or patterns indicating changes in focus or behavior?
+- When am I most active in communication, and how does this vary over time?
+- Who are my most significant collaborators, and how have these relationships evolved?
+- Are there any anomalies or patterns indicating changes in focus or behavior?
+- How has my email activity changed over the years? Are there specific periods of higher or lower communication frequency?
 Through these analyses, the project will provide actionable insights into my productivity, social network, and trends.
 
 # 3. Project Plan
 
 # Step 1: Data Preprocessing
 
-Normally dataset needs to be cleaned to get rid of spam, or irrelevant emails, but I did not use my email for any commercial communication.
-Extract and engineer features, including:
-Communication frequency.
-Email length (word count, character count).
-Time-based attributes (hour, day, month).
-Textual features (keywords, sentiment, topics).
+- Normally dataset needs to be cleaned to get rid of spam, or irrelevant emails, but I did not use my email for any commercial communication.
+- Extract and engineer features, including:
+* Communication frequency.
+* Email length (word count, character count).
+* Time-based attributes (hour, day, month).
+* Textual features (keywords, sentiment, topics).
 
 # Step 2: Exploratory Data Analysis
 
